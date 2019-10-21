@@ -49,4 +49,4 @@ This includes adding themes to .vim/colors dir, specifically badwolf.vim and goo
 Re-register machine with SSH and GPG keys (.ssh directory)
 
 ### Core photos 
-Desktop images at - ~/Pictures 
+Desktop images at ~/Pictures 
