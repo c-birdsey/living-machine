@@ -3,15 +3,15 @@
 Personal repo with all steps for configuring a new machine. A developing and living document with step-by-step directions for seamless and easy transitions, a checklist of sorts
 
 ## Apps 
-### OS 
-zsh  
-Homebrew   
-*See notes*
 
-### IDE
+### Developing 
 VSC (with config)  
 Eclipse   
 Arduino   
+Spyder 
+R Studio (*depending*)
+node 
+npm 
 
 ### Prototyping 
 Sketch  
@@ -25,11 +25,25 @@ Adobe Creative Cloud
 -Photoshop   
 -InDesign   
 
+### Fonts 
+Re-install dependent fonts:
+-Roboto
+
 ### Other 
 Google Drive Stream  
 VirtualBox  
 Logisim (or equivalent, given work)  
 Sketch Up  
+oh-my-zsh/powerlevel9k  
+Homebrew   
+*See notes*
 
 ## Notes 
--Cofiguration files: 
+### Cofiguration files
+-~/.vimrc  
+This includes adding themes to .vim/colors dir, specifically badwolf.vim and goodwolf.vim
+-~/.zshrc  
+-~/.oh-my-zsh
+
+### RSA Encryption 
+Re-register machine with SSH and GPG keys (.ssh directory)
