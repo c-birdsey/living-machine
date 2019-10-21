@@ -20,9 +20,10 @@ Abstract
 
 ### Graphic
 Adobe Creative Cloud  
--Illustrator   
--Photoshop   
--InDesign   
+- Illustrator   
+- Photoshop   
+- InDesign   
+ImageOptim
 
 ### Fonts 
 Re-install dependent fonts:  
@@ -35,8 +36,8 @@ Logisim (or equivalent)
 Sketch-Up
 Vector Works
 oh-my-zsh/powerlevel9k  
-Homebrew *(see notes)*
-ImageOptim 
+Homebrew *(see notes)*  
+Microsoft Office Suite (through bkloman)
 
 ## Notes 
 ### Cofiguration files
@@ -44,6 +45,8 @@ ImageOptim
 This includes adding themes to .vim/colors dir, specifically badwolf.vim and goodwolf.vim
 - ~/.zshrc  
 - ~/.oh-my-zsh
+
+### Homebrew
 
 ### RSA Encryption 
 Re-register machine with SSH and GPG keys (.ssh directory)
