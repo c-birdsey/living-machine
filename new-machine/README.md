@@ -1,5 +1,5 @@
 # New Machine Init
-Personal repo with all steps for configuring a new machine - a checklist of sorts  
+Enumerating all the steps for configuring a new machine - a checklist of sorts  
 
 ## Apps and Installs
 
@@ -30,6 +30,7 @@ Re-install dependent fonts:
 -Roboto
 
 ### Other 
+Chrome
 Google Drive Stream  
 VirtualBox  
 Logisim (or equivalent)  
@@ -38,6 +39,7 @@ Vector Works
 oh-my-zsh/powerlevel9k  
 Homebrew *(see notes)*  
 Microsoft Office Suite (through bkloman)
+f.lux
 
 ## Notes 
 ### Cofiguration files
@@ -47,6 +49,12 @@ This includes adding themes to .vim/colors dir, specifically badwolf.vim and goo
 - ~/.oh-my-zsh
 
 ### Homebrew
+
+### Hot Corners 
+Set up hot corners, mappings below:
+- Upper left: Application Windows   
+- Upper right: Mission Control  
+- Bottom: Display to sleep
 
 ### RSA Encryption 
 Re-register machine with SSH and GPG keys (.ssh directory)
