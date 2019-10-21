@@ -1,14 +1,14 @@
 # New Machine Init
 Personal repo with all steps for configuring a new machine - a checklist of sorts  
 
-## Apps 
+## Apps and Installs
 
 ### Developing 
-VSC (with config)  
+Visual Studio Code (with configurations)  
 Eclipse   
 Arduino   
 Spyder 
-R Studio (*depending*)
+R Studio *(depending)*
 node 
 npm 
 
@@ -31,21 +31,22 @@ Re-install dependent fonts:
 ### Other 
 Google Drive Stream  
 VirtualBox  
-Logisim (or equivalent, given work)  
-Sketch Up  
+Logisim (or equivalent)  
+Sketch-Up
+Vector Works
 oh-my-zsh/powerlevel9k  
-Homebrew   
-*See notes*
+Homebrew *(see notes)*
+ImageOptim 
 
 ## Notes 
 ### Cofiguration files
--~/.vimrc  
+- ~/.vimrc  
 This includes adding themes to .vim/colors dir, specifically badwolf.vim and goodwolf.vim
--~/.zshrc  
--~/.oh-my-zsh
+- ~/.zshrc  
+- ~/.oh-my-zsh
 
 ### RSA Encryption 
 Re-register machine with SSH and GPG keys (.ssh directory)
 
 ### Core photos 
-Desktop images - ~/Pictures 
+Desktop images at - ~/Pictures 
