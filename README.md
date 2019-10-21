@@ -4,14 +4,25 @@ Personal repo with all steps for configuring a new machine. A developing and liv
 
 ## Apps 
 ### OS 
+zsh
+Homebrew 
 *See notes*
 
-### IDE:
-VSC 
+### IDE
+VSC (with config)
 Eclipse  
+Arduino 
 
 ### Prototyping 
+Sketch
+Adobe XD 
+InVision 
+Abstract 
 
 ### Graphic
+Adobe Creative Cloud
+-Illustrator 
+-Photoshop 
+-InDesign 
 
 ## Notes 
