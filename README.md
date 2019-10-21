@@ -1,6 +1,6 @@
 # Living Machine
 ## About 
-Personal repo with all steps for configuring a new machine. A developing and living document with step-by-step directions for seamless and easy transitions.
+Personal repo with all steps for configuring a new machine. A developing and living document with step-by-step directions for seamless and easy transitions, a checklist of sorts
 
 ## Apps 
 ### OS 
@@ -25,4 +25,11 @@ Adobe Creative Cloud
 -Photoshop   
 -InDesign   
 
+### Other 
+Google Drive Stream  
+VirtualBox  
+Logisim (or equivalent, given work)  
+Sketch Up  
+
 ## Notes 
+-Cofiguration files: 
