@@ -61,3 +61,9 @@ Re-register machine with SSH and GPG keys (.ssh directory)
 
 ### Core photos 
 Desktop images at ~/Pictures 
+
+### File transfers
+Consolidate all desktop items - this should include all relevant material   
+Update Google Drive Stream with archived material 
+Consolidate thumb drives and hard drive content  
+Remove archived photos from Photo Library and Phone 
