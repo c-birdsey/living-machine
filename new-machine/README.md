@@ -23,7 +23,7 @@ Adobe Creative Cloud
 - Illustrator   
 - Photoshop   
 - InDesign   
-ImageOptim
+- ImageOptim
 
 ### Fonts 
 Re-install dependent fonts:  
