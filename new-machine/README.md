@@ -27,7 +27,11 @@ ImageOptim
 
 ### Fonts 
 Re-install dependent fonts:  
--Roboto
+- Roboto
+- Shree714
+- Avenir 
+- Bauhaus 93/p22 Bauhaus
+- Kohinoor
 
 ### Other 
 Chrome
