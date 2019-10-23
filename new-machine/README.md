@@ -48,6 +48,9 @@ This includes adding themes to .vim/colors dir, specifically badwolf.vim and goo
 - ~/.zshrc  
 - ~/.oh-my-zsh
 
+### Enable Remote Login 
+Enable remote login to the new machine, and make note of relavent login information for the future. Include username/IP and ssh keys. 
+
 ### Homebrew
 
 ### Hot Corners 
