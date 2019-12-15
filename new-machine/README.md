@@ -56,6 +56,10 @@ This includes adding themes to .vim/colors dir, specifically badwolf.vim and goo
 Enable remote login to the new machine, and make note of relevant and needed login information for the future. Include username/IP and ssh keys, etc.  
 
 ### Homebrew  
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- Download Hyper - https://hyper.is   
+- `hyper i hyper-material-theme` - material theme 
+
 
 ### Hot Corners 
 Set up hot corners, mappings below:  
