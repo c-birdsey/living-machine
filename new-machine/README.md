@@ -38,12 +38,13 @@ Chrome
 Google Drive Stream  
 VirtualBox  
 Logisim (or equivalent)  
-Sketch-Up
+Sketch-Up *(see notes)*
 Vector Works
 oh-my-zsh/powerlevel9k  
 Homebrew *(see notes)*  
 Microsoft Office Suite (through bkloman)
 f.lux
+Magnent 
 
 ## Notes 
 ### Cofiguration files
@@ -56,6 +57,10 @@ This includes adding themes to .vim/colors dir, specifically badwolf.vim and goo
 Enable remote login to the new machine, and make note of relevant and needed login information for the future. Include username/IP and ssh keys, etc.
 
 ### Homebrew
+- Install Homebrew 
+- Install Node.js 
+- Install Heroku CLI 
+- Install miniconda/MicroPython 
 
 ### Hot Corners 
 Set up hot corners, mappings below:
@@ -77,4 +82,8 @@ Desktop images at ~/Pictures
 Consolidate all desktop items - this should include all relevant material   
 Update Google Drive Stream with archived material 
 Consolidate thumb drives and hard drive content  
-Remove archived photos from Photo Library and Phone 
+Remove archived photos from Photo Library and Phone
+
+### Sketch-Up 
+- Install SU Podium Render 
+- Customize toolbar 
