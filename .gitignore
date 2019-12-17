@@ -1,0 +1,3 @@
+#ignore all macos dir descriptors 
+.DS_Store
+
